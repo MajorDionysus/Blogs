@@ -1,7 +1,5 @@
 ---
 title: "HOME"
-author: "MEI"
-date: "2025-03-14"
 layout: post
 ---
 
