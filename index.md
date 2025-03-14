@@ -21,7 +21,7 @@ layout: post
 - 滑轮
 - 电子计时器
 - 刻度尺
-  [test](logo.png)
+  ![test](logo.png)
 
 ## 代码示例
 实验数据处理 Python 代码：
