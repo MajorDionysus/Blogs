@@ -6,6 +6,33 @@ categories: [实验, 物理, Markdown]
 layout: post
 ---
 
+<style>
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin: 10px 0;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+.card h2 {
+  margin-top: 0;
+  font-size: 1.5em;
+}
+</style>
+
+<div class="card">
+  <h2>实验 1：牛顿第二定律</h2>
+  <p>牛顿第二定律的公式：</p>
+  <p>$$ F = ma $$</p>
+</div>
+
+<div class="card">
+  <h2>实验 2：自由落体</h2>
+  <p>自由落体的运动方程：</p>
+  <p>$$ s = \frac{1}{2} g t^2 $$</p>
+</div>
+
 # 实验报告
 
 ## 实验名称
